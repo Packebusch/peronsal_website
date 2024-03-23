@@ -1,19 +1,18 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "siteUrl": "https://tpackebusch.com/",
+    "title": "Tom's Website",
+    "titleTemplate": "%s · Tom's Website",
+    "description": "This is the personal website of Tom Packebusch.",
+    "author": "Tom Packebusch",
+    "avatar": "../content/images/avatar.png",
+    "bio": "Tom lives in Leipzig. He writes and thinks about democracy, technology and how we can prevent us from killing ourselves.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/Packebusch",
+      "linkedin": "https://www.linkedin.com/in/tom-packebusch/",
+      "medium": "https://medium.com/@tom.packebusch",
+      "mail": "mailto:tom.packebusch@gmx.de"
     }
   },
   "siteConfiguration": {
@@ -22,8 +21,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Projects", "url": "/#projects" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -37,7 +35,7 @@
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
-      "useDarkModeBasedOnUsersPreference": true,
+      "useDarkModeBasedOnUsersPreference": false,
       "useCookieBar": false
     }
   }

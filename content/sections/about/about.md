@@ -1,14 +1,10 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/tom_talk.jpg"
+imageAlt: "Tom talking on the Hausflotte final review."
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I'm a product leader trying to make our everyday mobility more sustainable. As much as I love technology and being able to code and fiddle around, I believe that the answers to our most pressing problems are more to be found in **social technologies**. We need to change the way we live and work together and most importantly, how we interact with the world.  
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I think about **Democracy** a lot. I believe our multi party system is deeply flawed and that we need to trancend it into a multi body system out of several randomly elected citizen councils. You can read more humble thoughts about that in my writing or in the books of David Van Reybrouck or Bernard Manin. 
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I love to read. If you have good book recommendation, don't hesitate to reach out! Sometimes I consult companies on Product Management or on Process Automatisation via Low Code Platforms. Feel free to reach out for that as well. 
