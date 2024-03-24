@@ -2,10 +2,10 @@
 title: "A better Democracy is possible"
 description: "More and more people are dissatisfied with democracy. Instead of calling them Nazis, we might do better in taking their concerns seriously and take a critical look at the electoral party system and how we can transcend it towards real Democracy."
 date: "2024-03-23"
-# banner:
-#   src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
-#   alt: "First Markdown Post"
-#   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+banner:
+  src: "../../images/democracy_protest.jpg"
+  alt: "Democracy"
+  caption: 'Photo by Kyle Ryan on Unsplash</u>'
 categories:
   - "Democracy"
 keywords:
@@ -48,11 +48,11 @@ Unless otherwise stated, all councils consist of participants drawn by lot from 
 - The **Supervisory Council** monitors the legislative process and deals with complaints.  
 In this model, every current function is performed, but transparently and by representatively and randomly selected citizens. They are supported in their work by administrative staff, assistants and experts. 
 
-## A fictitious conversation 
+## What happens next? 
 
-I'm sitting in a café with a friend and have just explained this model to him.
+There are many unanswered questions in the model. It is unusual for us to think about a democracy that is not based on elections. I would like to answer a few questions below.
 
-*"So we're swapping politicians for normal people? Why, what's so bad about professional politicians? At least they know their stuff."* 
+*"What's so bad about professional politicians? At least they know their stuff"* 
 
 Career politicians are susceptible to lobby groups, they only represent a small part of the population, they have to fight for power to get power, which leads to party infighting. It's more about re-election, their own profile or the party than about the welfare of the citizens. And no, most MPs are not experts in the areas in which they later work. That's exactly why they have experts and staff at their side. 
 
@@ -60,7 +60,6 @@ Career politicians are susceptible to lobby groups, they only represent a small 
 
 Definitely, government work is not easy. That's exactly why citizens' assemblies are highly structured and supplemented with experts. Just like the subcommittees are also staffed with experts. I am firmly convinced that the citizens chosen, regardless of their background, will take this task seriously and serve their country to the best of their knowledge and belief. 
 
-*"But..."* 
+There are many more questions that need to be answered. Not everything is already clear or defined. One thing is clear: our current system is not made for the challenges of our time. Let's try to find answers together and create a better democratic system. 
 
-Today's challenges are not made for our current system. What would the reaction to the Covid measures have been or how would they have turned out if citizens had passed them? Like a heating law? 
-Our current system is not able to deal with modern problems efficiently. The only alternative is a potential dictatorship. So what are we waiting for?
+[👉 Get in touch](mailto:tom.packebusch@gmx.de)

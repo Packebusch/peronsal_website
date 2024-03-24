@@ -16,7 +16,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "TP" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -24,9 +24,9 @@
         { "label": "Projects", "url": "/#projects" }
       ],
       "ctaButton": {
-        "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "openNewTab": false,
+        "label": "Get in touch",
+        "url": "/#contact"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

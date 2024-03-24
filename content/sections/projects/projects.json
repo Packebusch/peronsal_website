@@ -4,44 +4,37 @@
       "visible": true,
       "category": "DELIBERATIVE DEMOCRACY",
       "title": "Why we need to trancend the electoral party system.",
-      "description": "Elections are synonymous to Democracy. We somehow take it for granted that a functioning democracy needs to have regular, transparent and fair elections and a multiple party system. However we are seeing that many people loose trust in our institutions and especially in Europe and the US, we see a rise in right-wing populist governments. I think the diagnosis of the populists is right. The political elites do not act as if they care for their people. However I believe the populists treatment is wrong. Instead of electing others into the same parlaments we will need to trancend the electoral party system alltogether and replace it with a true democracy. Learn more in my recent blog post.",
+      "description": "Elections are synonymous to Democracy. We somehow take it for granted that a functioning democracy needs to have regular, transparent and fair elections and a multiple party system. However we are seeing that many people loose trust in our institutions and especially in Europe and the US, we see a rise in right-wing populist governments. I think the diagnosis of the populists is right. The political elites do not act as if they care for their people. However I believe the populists treatment is wrong. Instead of electing others into the same parlaments we will need to trancend the electoral party system alltogether and replace it with a true democracy. Learn more in my recent blog post. Photo by Kyle Ryan on Unsplash",
       "tags": ["Democracy", "Participation"],
       "image": {
         "src": "../../images/democracy_protest.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "alt": "Protester",
+        "linkTo": "/a_better_democracy/a_better_democracy"
       },
       "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
+      
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "WHERE I WORK",
+      "title": "Enabling more people to not own a car.",
+      "description": "Although I strongly believe that the transition to sustainable mobility needs to be driven (pun definitely intentended) by policy and not by private companies, I still want to do my part. I'm currently Head of Product at ANYMOVE where we try to make sustainable mobility accessible to anyone. Cars need to be shared and used, not owned.",
+      "tags": ["Work", "Sustainability"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/anymove.png",
+        "alt": "ANYMOVE"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://anymove.app"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
