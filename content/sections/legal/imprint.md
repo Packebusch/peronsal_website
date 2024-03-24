@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Tom Packebusch<br />
+Herderstraße 11<br />
+04277 Leipzig<br />
+Germany
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>tom.packebusch@gmx.de</u>
 
 ---
 

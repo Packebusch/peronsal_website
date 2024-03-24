@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/personal_website",
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
