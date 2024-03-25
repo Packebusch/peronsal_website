@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://tpackebusch.com/personal_website/sitemap-index.xml
+Sitemap: https://tpackebusch.com/sitemap-index.xml
 Host: https://tpackebusch.com
